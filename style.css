@@ -1,0 +1,78 @@
+body{
+
+    background-color: lightgoldenrodyellow;
+}
+
+
+
+
+h1{
+
+    text-align: center;
+    color: goldenrod;
+   
+}
+
+p.Ies{
+    text-align: center;
+    color: goldenrod;
+}
+
+div.SMR{
+
+    background-color:plum ;
+    margin-left: 00px;
+}
+
+img.smr1{
+
+    margin-left: 400px;
+}style
+
+a.enl{
+
+    margin-left: 400px;
+}
+
+div.DAM{
+
+    background-color: gray;
+}
+
+img.dam1{
+     margin-left: 800px;
+}
+
+a.en1{
+
+    margin-left: 800px;
+}
+
+div.ASIR{
+
+    background-color:aquamarine;
+}
+
+a.en2{
+
+    margin-left: 1500px;
+}
+
+img.asir1{
+
+    margin-left: 1500px;
+}
+
+footer{
+
+    background-color: yellow;
+    text-align: center;
+    color: blue;
+}
+
+
+
+body1{
+    width: 50 px;
+    background-color: goldenrod;
+}

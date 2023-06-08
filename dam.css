@@ -1,0 +1,20 @@
+body{
+
+    background-color: lightgoldenrodyellow;
+    text-align: center;
+}
+
+div.tabla{
+
+    background-color: rgb(131, 226, 255);
+    text-align: left;
+    color: blue;
+    height: 200px;
+}
+
+p.web{
+
+    background-color: yellow;
+    text-align: center;
+    height: 70px;
+}
